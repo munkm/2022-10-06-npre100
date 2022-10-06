@@ -1,4 +1,8 @@
-# Computation in Nuclear Engineering
+# Introduction to Python: A comprehensive start for NPRE 100
+
+This is a lesson introducing nuclear engineering students to the Python
+programming language. This material was developed for NPRE 100 at the
+University of Illinois at Urbana-Champaign by Dr. Madicken Munk
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/munkm/2022-10-06-npre100/main)
 
@@ -9,7 +13,7 @@ on the notebook `intro-to-python.ipynb` to start the lesson.
 
 This lesson material is open and freely available to all who would like to use
 it. If you have any issues with the lesson, please feel free to file an issue
-to this repository's issues at https://github.com/munkm/2022-10-05-npre100. Any
+to this repository's issues at https://github.com/munkm/2022-10-06-npre100. Any
 feedback to this lesson is most welcome. 
 
 #### References
