@@ -4,7 +4,7 @@ This is a lesson introducing nuclear engineering students to the Python
 programming language. This material was developed for NPRE 100 at the
 University of Illinois at Urbana-Champaign by Dr. Madicken Munk
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/munkm/2022-10-06-npre100/main)
+[![Binder](https://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilnovak/2023-10-12-npre100/HEAD))
 
 Click on the button above to get started! Once your binder has launched, click
 on the notebook `intro-to-python.ipynb` to start the lesson. 
